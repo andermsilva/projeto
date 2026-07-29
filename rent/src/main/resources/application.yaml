@@ -14,8 +14,8 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: 'true'
-#jwt:
- # public:
-  #  key: classpath:app.pub
-  #private:
- #   key: classpath:app.key
+jwt:
+  public:
+    key: classpath:app.pub
+  private:
+    key: classpath:app.key
