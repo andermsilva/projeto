@@ -16,6 +16,6 @@ spring:
     show-sql: 'true'
 jwt:
   public:
-    key: classpath:app.public
+    key: classpath:app.pub
   private:
     key: classpath:app.key
