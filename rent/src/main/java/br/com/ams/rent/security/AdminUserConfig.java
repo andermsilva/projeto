@@ -1,4 +1,4 @@
-package br.com.ams.rent.security;
+ package br.com.ams.rent.security;
 
 import br.com.ams.rent.entities.Role;
 import br.com.ams.rent.entities.User;

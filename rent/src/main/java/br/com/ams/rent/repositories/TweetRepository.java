@@ -8,4 +8,6 @@ import org.springframework.stereotype.Repository;
 import java.util.UUID;
 @Repository
 public interface TweetRepository  extends JpaRepository<Tweet, Long> {
+
+
 }
